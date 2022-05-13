@@ -11,7 +11,7 @@ Type 'help' for list of commands.
 > help
 Commands:
     . . .
-    newKey                  Create new pseudo-random 32-byte key (secret!)
+    newKey         83a13017eac8c08f7929021c2bf886a819fa8f9d71dd5671b4e3d9b0f0c68ced
     . . .
 > coin btc
 Set active coin to: bitcoin
